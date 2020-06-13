@@ -58,9 +58,9 @@ global:
     # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.
     suffix:
         thousands: k
-        millions: M
-        billions: B
-        trillions: T
+        millions: mil
+        billions: mld
+        trillions: bil
 
     # Shown for infinitely big numbers
     infinite: nekonečno
@@ -93,7 +93,7 @@ global:
 
 demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
-    title: Demo verze
+    title: Demoverze
     intro: >-
         Získejte plnou verzi pro odemknutí všech funkcí!
 
@@ -117,15 +117,15 @@ mainMenu:
             title: "Soutěž #01"
             desc: Vyhraj <strong>$25</strong> za nejvíc cool základnu!
             longDesc: >-
-                Abych vám poděkoval, myslel jsem, že by bylo skvělé dělat týdenní soutěže!
+                Abych vám poděkoval, myslel jsem, že by bylo skvělé pořádat týdenní soutěže!
                 <br><br>
                 <strong>Téma tohoto týdne:</strong> Postavte nejvíc cool základnu!
                 <br><br>
                 Zde je zadání:<br>
                 <ul class="bucketList">
-                    <li>Zašlete screenshot své základny na <strong>contest@shapez.io</strong></li>
-                    <li>Bonusové body za sdílení na sociálních médiích!</li>
-                    <li>Vyberu 5 screenshotů a <strong>Discord</strong> komunita bude hlasovat o vítězi.</li>
+                    <li>Pošlete snímky své základny na <strong>contest@shapez.io</strong></li>
+                    <li>Bonusové body za sdílení na sociálních sítích!</li>
+                    <li>Vyberu 5 snímků a <strong>Discord</strong> komunita bude hlasovat o vítězi.</li>
                     <li>Vítěz dostane <strong>$25</strong> (Paypal, Amazon Dárkový Poukaz, co preferujete)</li>
                     <li>Uzávěrka: 07.06.2020 12:00 CEST</li>
                 </ul>
